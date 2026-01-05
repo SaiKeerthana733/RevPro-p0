@@ -1,1 +1,2 @@
-/target/
+target/
+src/main/web-resources/META-INF/
